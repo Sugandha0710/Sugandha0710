@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sugandha0710
 - 👀 I’m interested in exploring the technoloy
-- 🌱 I’m currently learning git ad github
+- 🌱 I’m currently learning git and github
 
 
 <!---
